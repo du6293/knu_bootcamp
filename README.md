@@ -1,1 +1,1 @@
-# computer_vision
+# knu_bootcamp
